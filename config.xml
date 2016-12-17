@@ -38,5 +38,5 @@
 
   <icon src="logo.png" />
   
-  <access origin="*" />
+  <access origin="*" subdomains="true" />
  </widget>
